@@ -1,0 +1,65 @@
+name: Refresh recent activity
+
+# Rewrites the block between the activity markers in README.md with your
+# five most recently pushed public repositories. Runs daily and on demand.
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # 07:17 Nairobi time (04:17 UTC)
+  workflow_dispatch:        # Actions tab -> Refresh recent activity -> Run workflow
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch recently pushed repositories
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+          SELF: ${{ github.event.repository.name }}
+        run: |
+          gh api "users/$OWNER/repos?type=owner&sort=pushed&per_page=30" > repos.json
+
+      - name: Write the activity block
+        run: |
+          python3 - <<'PY'
+          import json, re, datetime, os
+
+          self_repo = os.environ.get("GITHUB_REPOSITORY", "").split("/")[-1]
+          repos = json.load(open("repos.json"))
+          picked = [r for r in repos
+                    if not r["fork"] and not r["archived"] and r["name"] != self_repo][:5]
+
+          lines = []
+          for r in picked:
+              d = datetime.date.fromisoformat(r["pushed_at"][:10])
+              when = f"{d.day} {d:%b %Y}"
+              desc = f" — {r['description'].strip()}" if r.get("description") else ""
+              lines.append(f"- [{r['name']}]({r['html_url']}){desc} <sub>· updated {when}</sub>")
+
+          block = "\n".join(lines) if lines else "- Nothing public pushed recently."
+          src = open("README.md", encoding="utf-8").read()
+          out = re.sub(
+              r"(<!--START_SECTION:activity-->)(.*?)(<!--END_SECTION:activity-->)",
+              lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}",
+              src, flags=re.S)
+          open("README.md", "w", encoding="utf-8").write(out)
+          PY
+          rm repos.json
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh recent activity"
+          git push
