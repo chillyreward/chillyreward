@@ -1,0 +1,49 @@
+name: Draw the sandworm
+
+# Redraws the contribution calendar in a Dune sand palette, with a sandworm
+# crossing it, and publishes the two SVGs to the `output` branch.
+# README.md loads them from raw.githubusercontent.com/.../output/.
+
+on:
+  schedule:
+    - cron: "43 3 * * *"   # 06:43 Nairobi time (03:43 UTC)
+  workflow_dispatch:        # Actions tab -> Draw the sandworm -> Run workflow
+  push:
+    branches: [main]
+    paths: [.github/workflows/sandworm.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sandworm
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate the SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # First dot colour = no contributions; then four levels, light to heavy.
+          # Light: bone sand to deep spice.  Dark: night sand to bright spice.
+          # The worm is Ibad blue (light) and lifted blue (dark), matching the portfolio accent.
+          outputs: |
+            dist/sandworm-light.svg?color_snake=#1E45C8&color_dots=#EFE7D8,#E2C99B,#D4A55C,#C8801A,#8A4F0C
+            dist/sandworm-dark.svg?palette=github-dark&color_snake=#7F97FF&color_dots=#161B22,#4A3418,#7A5420,#B3741C,#E09A2E
+
+      - name: Publish to the output branch
+        env:
+          REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "chore: redraw the sandworm"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" output

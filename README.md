@@ -9,15 +9,16 @@ I'm Lenny, a Computer Science student at the Catholic University of Eastern Afri
 
 <!--
   NOW: the only section meant to change often.
-  Edit the three lines and the date. One short line each, three lines max.
+  Edit the lines and the date. One short line each, four lines max.
 -->
 ## Now
 
-<sub>Updated 18 Oct 2026</sub>
+<sub>Updated 2 Nov 2026</sub>
 
-- **Building** — a full visual redesign of [Saka](https://sakahapa.vercel.app), a local services marketplace for Nairobi
-- **Studying** — probability and statistics, and AI fundamentals, as groundwork for ML
-- **Open to** — freelance projects and internships
+- **Building** — **Atrium**, a property advisory web app for a Kenyan client: listings, an AI lead qualifier and a client portal
+- **Building** — **Planwright**, a browser-based 3D interior design tool for a client: floor plans in millimetres, a 3D walkthrough, then cut lists
+- **Shipping** — the Allenet Bakers website and rebrand, and [Saka](https://sakahapa.vercel.app)'s public launch
+- **Studying** — for December exams: AI, statistics, computer architecture and cloud computing
 
 ## Selected work
 
@@ -30,11 +31,12 @@ I'm Lenny, a Computer Science student at the Catholic University of Eastern Afri
 | :-- | :-- | :-- | :-- |
 | **SmartChama** | Savings and loan platform for Kenyan chama groups, with a smart-contract layer. Hackathon winner. | Next.js · TypeScript · Firebase · Solidity | [Live](https://smartchama.tech) · [Code](https://github.com/chillyreward/SmartChama) |
 | **Saka** | Inquiry-first marketplace connecting Nairobi households with local professionals. Direct M-Pesa, no commission. I lead product. | Next.js 14 · Supabase · Google Maps · Cloudinary | [Live](https://sakahapa.vercel.app) · Private repo |
+| **Dogear** <sup>new</sup> | Spotify companion that keeps a fixed, artist-spread shuffle per playlist and resumes on the exact song and second. | Next.js · TypeScript · Supabase · Spotify Web API | [Live](https://dogear-nine.vercel.app) · Private repo |
 | **Gikuyu Translator** | AI translation from English and Kiswahili into Gikuyu, with spoken output. | Next.js · Gemini API · ElevenLabs API | [Live](https://gikuyu-translate.vercel.app) · [Code](https://github.com/chillyreward/New-translator) |
-| **NeuroGrowth** | Website upgrade for a Nairobi AI engineering studio. | Next.js · TypeScript · Tailwind CSS | [Code](https://github.com/Neuro-growth/neurogrowthwebsite) |
-| **This portfolio** | My site and its design system, built from an original Arrakis-inspired identity. | Next.js 14 · TypeScript · Tailwind CSS | [Live](https://lennydev.vercel.app) · [Code](https://github.com/chillyreward/DunePortfolio) |
+| **NeuroGrowth** | Website upgrade for a Nairobi AI engineering studio. | Next.js · TypeScript · Tailwind CSS | [Live](https://www.neurogrowthtech.com) · [Code](https://github.com/Neuro-growth/neurogrowthwebsite) |
+| **Oppolia Woodworths Kenya** | Showcase and quote-request site for a luxury fitted-cabinetry company. Client work. | Next.js · TypeScript · Tailwind CSS | [Live](https://oppoliakenya.co.ke) |
 
-Also: client sites for [Oppolia Woodworths Kenya](https://oppoliakenya.co.ke) and [Sucre Bushworks](https://sucre-bushworks.vercel.app).
+Also: [Sucre Bushworks](https://sucre-bushworks.vercel.app), a camping gear and trips site for a client, and [this portfolio](https://lennydev.vercel.app) ([code](https://github.com/chillyreward/DunePortfolio)), built on an original Arrakis-inspired design system.
 
 ## Recognition
 
@@ -52,7 +54,8 @@ Also: client sites for [Oppolia Woodworths Kenya](https://oppoliakenya.co.ke) an
 ## Recent activity
 
 <!--
-  Filled in automatically every day by .github/workflows/activity.yml.
+  Filled in automatically every day by .github/workflows/recent-activity.yml.
+  Only public repositories appear here; most client work is private.
   Do not edit between the two markers; the workflow overwrites it.
 -->
 <!--START_SECTION:activity-->
@@ -62,6 +65,18 @@ Also: client sites for [Oppolia Woodworths Kenya](https://oppoliakenya.co.ke) an
 - [New-translator](https://github.com/chillyreward/New-translator) <sub>· updated 29 Jun 2026</sub>
 - [gikuyu-translate](https://github.com/chillyreward/gikuyu-translate) <sub>· updated 18 May 2026</sub>
 <!--END_SECTION:activity-->
+
+## Across the sand
+
+<!--
+  Drawn every day by .github/workflows/sandworm.yml from my contribution
+  calendar (private contributions included if enabled on my profile),
+  in a sand palette instead of GitHub's green. Lives on the `output` branch.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chillyreward/chillyreward/output/sandworm-dark.svg">
+  <img src="https://raw.githubusercontent.com/chillyreward/chillyreward/output/sandworm-light.svg" width="100%" alt="My GitHub contribution calendar drawn in sand tones, with a sandworm travelling across it.">
+</picture>
 
 <br>
 
