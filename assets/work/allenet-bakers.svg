@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Allenet Bakers: a line drawing of a tiered cake">
+<rect width="1200" height="750" fill="#F6EEE3"/>
+<g fill="none" stroke="#5A3A22" stroke-width="4" stroke-linejoin="round" transform="translate(760 70)">
+<rect x="20" y="250" width="280" height="90" rx="6"/><rect x="60" y="170" width="200" height="80" rx="6"/><rect x="100" y="100" width="120" height="70" rx="6"/>
+<path d="M20 275 q35 22 70 0 t70 0 t70 0 t70 0"/><path d="M60 192 q25 18 50 0 t50 0 t50 0 t50 0"/><path d="M100 120 q15 14 30 0 t30 0 t30 0 t30 0"/>
+<line x1="0" y1="340" x2="320" y2="340"/><path d="M160 100 V62"/><path d="M160 62 q-10 -14 0 -26 q10 12 0 26 z" fill="#C8801A" stroke="#C8801A"/></g>
+<text x="64" y="88" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" fill="#6B5443" letter-spacing="0.5">Client · In progress</text>
+<text x="64" y="636" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="76" font-weight="800" fill="#3B2616" letter-spacing="-2">Allenet Bakers</text>
+<text x="66" y="686" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#6B5443">Brand and ordering website for a custom-cake bakery.</text>
+</svg>

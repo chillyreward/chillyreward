@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Dogear: a row of tracks with one bookmarked">
+<rect width="1200" height="750" fill="#231D14"/>
+<rect x="520" y="258" width="16" height="172" fill="#EFE7D8" opacity="0.14"/>
+<rect x="548" y="302" width="16" height="128" fill="#EFE7D8" opacity="0.14"/>
+<rect x="576" y="239" width="16" height="191" fill="#EFE7D8" opacity="0.14"/>
+<rect x="604" y="174" width="16" height="256" fill="#EFE7D8" opacity="0.14"/>
+<rect x="632" y="328" width="16" height="102" fill="#EFE7D8" opacity="0.14"/>
+<rect x="660" y="322" width="16" height="108" fill="#EFE7D8" opacity="0.14"/>
+<rect x="688" y="130" width="16" height="300" fill="#EFE7D8" opacity="0.14"/>
+<rect x="716" y="203" width="16" height="227" fill="#EFE7D8" opacity="0.14"/>
+<rect x="744" y="316" width="16" height="114" fill="#EFE7D8" opacity="0.14"/>
+<rect x="772" y="247" width="16" height="183" fill="#EFE7D8" opacity="0.14"/>
+<rect x="800" y="191" width="16" height="239" fill="#EFE7D8" opacity="0.14"/>
+<rect x="828" y="326" width="16" height="104" fill="#EFE7D8" opacity="0.14"/>
+<rect x="856" y="211" width="16" height="219" fill="#EFE7D8" opacity="0.14"/>
+<rect x="884" y="286" width="16" height="144" fill="#C8801A"/>
+<path d="M880 216 h24 v52 l-12 -12 l-12 12 z" fill="#EFE7D8"/>
+<rect x="912" y="331" width="16" height="99" fill="#EFE7D8" opacity="0.32"/>
+<rect x="940" y="318" width="16" height="112" fill="#EFE7D8" opacity="0.32"/>
+<rect x="968" y="229" width="16" height="201" fill="#EFE7D8" opacity="0.32"/>
+<rect x="996" y="233" width="16" height="197" fill="#EFE7D8" opacity="0.32"/>
+<rect x="1024" y="323" width="16" height="107" fill="#EFE7D8" opacity="0.32"/>
+<rect x="1052" y="279" width="16" height="151" fill="#EFE7D8" opacity="0.32"/>
+<rect x="1080" y="317" width="16" height="113" fill="#EFE7D8" opacity="0.32"/>
+<rect x="1108" y="199" width="16" height="231" fill="#EFE7D8" opacity="0.32"/><path d="M1080 0 H1200 V120 Z" fill="#EFE7D8" opacity="0.9"/><path d="M1080 0 V120 H1200" fill="none" stroke="#231D14" stroke-width="2"/>
+<text x="64" y="88" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" fill="#BFB3A0" letter-spacing="0.5">Own product · Live</text>
+<text x="64" y="636" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="76" font-weight="800" fill="#EFE7D8" letter-spacing="-2">Dogear</text>
+<text x="66" y="686" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#BFB3A0">Your Spotify shuffle, remembered: same order, same song, same second.</text>
+</svg>

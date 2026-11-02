@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Planwright: a floor plan on a millimetre grid with one wall selected">
+<rect width="1200" height="750" fill="#F7F5F0"/>
+<line x1="0" y1="0" x2="0" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="25" y1="0" x2="25" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="50" y1="0" x2="50" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="75" y1="0" x2="75" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="100" y1="0" x2="100" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="125" y1="0" x2="125" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="150" y1="0" x2="150" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="175" y1="0" x2="175" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="200" y1="0" x2="200" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="225" y1="0" x2="225" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="250" y1="0" x2="250" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="275" y1="0" x2="275" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="300" y1="0" x2="300" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="325" y1="0" x2="325" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="350" y1="0" x2="350" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="375" y1="0" x2="375" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="400" y1="0" x2="400" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="425" y1="0" x2="425" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="450" y1="0" x2="450" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="475" y1="0" x2="475" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="500" y1="0" x2="500" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="525" y1="0" x2="525" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="550" y1="0" x2="550" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="575" y1="0" x2="575" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="600" y1="0" x2="600" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="625" y1="0" x2="625" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="650" y1="0" x2="650" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="675" y1="0" x2="675" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="700" y1="0" x2="700" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="725" y1="0" x2="725" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="750" y1="0" x2="750" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="775" y1="0" x2="775" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="800" y1="0" x2="800" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="825" y1="0" x2="825" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="850" y1="0" x2="850" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="875" y1="0" x2="875" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="900" y1="0" x2="900" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="925" y1="0" x2="925" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="950" y1="0" x2="950" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="975" y1="0" x2="975" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="1000" y1="0" x2="1000" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="1025" y1="0" x2="1025" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="1050" y1="0" x2="1050" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="1075" y1="0" x2="1075" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="1100" y1="0" x2="1100" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="1125" y1="0" x2="1125" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="1150" y1="0" x2="1150" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="1175" y1="0" x2="1175" y2="750" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="1200" y1="0" x2="1200" y2="750" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="0" x2="1200" y2="0" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="25" x2="1200" y2="25" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="50" x2="1200" y2="50" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="75" x2="1200" y2="75" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="100" x2="1200" y2="100" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="125" x2="1200" y2="125" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="150" x2="1200" y2="150" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="175" x2="1200" y2="175" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="200" x2="1200" y2="200" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="225" x2="1200" y2="225" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="250" x2="1200" y2="250" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="275" x2="1200" y2="275" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="300" x2="1200" y2="300" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="325" x2="1200" y2="325" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="350" x2="1200" y2="350" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="375" x2="1200" y2="375" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="400" x2="1200" y2="400" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="425" x2="1200" y2="425" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="450" x2="1200" y2="450" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="475" x2="1200" y2="475" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="500" x2="1200" y2="500" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="525" x2="1200" y2="525" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="550" x2="1200" y2="550" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="575" x2="1200" y2="575" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="600" x2="1200" y2="600" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="625" x2="1200" y2="625" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="650" x2="1200" y2="650" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="675" x2="1200" y2="675" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="700" x2="1200" y2="700" stroke="#D3CEC1" stroke-width="1.5"/>
+<line x1="0" y1="725" x2="1200" y2="725" stroke="#E4E0D6" stroke-width="1"/>
+<line x1="0" y1="750" x2="1200" y2="750" stroke="#E4E0D6" stroke-width="1"/><g fill="none" stroke="#2B2F33" stroke-width="16" stroke-linejoin="miter">
+<path d="M600 100 H1100 V450 H600 Z"/><path d="M850 100 V300"/><path d="M850 380 V450"/></g>
+<path d="M850 300 A80 80 0 0 1 930 380" fill="none" stroke="#2B2F33" stroke-width="2"/><line x1="850" y1="300" x2="930" y2="300" stroke="#2B2F33" stroke-width="2"/>
+<path d="M600 100 H850" fill="none" stroke="#E8590C" stroke-width="16"/>
+<g stroke="#E8590C" stroke-width="2"><line x1="600" y1="64" x2="850" y2="64"/><line x1="600" y1="54" x2="600" y2="74"/><line x1="850" y1="54" x2="850" y2="74"/></g><text x="725" y="52" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="20" fill="#E8590C">4 200</text>
+<text x="64" y="88" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" fill="#5B6066" letter-spacing="0.5">Client · In progress</text>
+<text x="64" y="636" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="76" font-weight="800" fill="#2B2F33" letter-spacing="-2">Planwright</text>
+<text x="66" y="686" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#5B6066">3D interior design tool: plans to the millimetre, then 3D and cut lists.</text>
+</svg>
