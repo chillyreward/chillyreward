@@ -19,7 +19,8 @@ I'm Lenny, a Computer Science student at the Catholic University of Eastern Afri
 
 - **Shipped** — [Allenet Bakers](https://allenetbakers.vercel.app): full rebrand and website for a custom-cake bakery
 - **Launching** — [Saka](https://sakahapa.app) in a soft launch with professionals first, and building its Android app
-- **Building** — [Akibora](#being-built) (SmartChama, redesigned) and two client products, Atrium and Planwright
+- **Relaunched** — [Akibora](https://www.smartchama.tech), SmartChama rebuilt for web and Android on one database
+- **Building** — two client products, Atrium and Planwright
 - **Studying** — for December exams: AI, statistics, computer architecture, OOP and cloud computing
 
 ## Selected work
@@ -62,15 +63,15 @@ Finding a plumber, electrician, salon or mechanic you can trust in Nairobi usual
 </td>
 <td width="50%" valign="top">
 
-<a href="https://smartchama.tech"><img src="./assets/work/smart-chama.jpg" width="100%" alt="SmartChama landing page"></a>
+<a href="https://www.smartchama.tech"><img src="./assets/work/smart-chama.jpg" width="100%" alt="Akibora home page: Every shilling your chama saves, kept in the open"></a>
 
-### SmartChama → Akibora
-<sub>Product · 2026 · Hackathon winner</sub>
+### Akibora <sub>(formerly SmartChama)</sub>
+<sub>Product · 2026 · Hackathon winner · Early access</sub>
 
-Savings and loan platform for Kenyan chama groups, with a smart-contract layer.
+Chama savings over M-Pesa: merry-go-round, welfare, loans and a credit passport, all in the open.
 
-<sub>Next.js · TypeScript · Solidity · Ethereum</sub><br>
-[Live](https://smartchama.tech) · [Code](https://github.com/chillyreward/SmartChama)
+<sub>Next.js 16 · React 19 · Supabase · M-Pesa Daraja · Expo · Solidity</sub><br>
+[Live](https://www.smartchama.tech) · [Code](https://github.com/chillyreward/SmartChama)
 
 <details>
 <summary><b>Case notes</b></summary>
@@ -82,7 +83,7 @@ Chamas run on trust, but most still track contributions, loans and Merry-Go-Roun
 
 **Recognition:** 1st place at Red, White & Build (U.S. Embassy Kenya), 2nd at Beorchild. Built with Rachael, Shilla and Nanjoli.
 
-**Next:** it's becoming **Akibora**, with a full redesign of the web and mobile apps on one shared database.
+**Now:** relaunched as **Akibora**, with the web and Android apps rebuilt from scratch on one shared, locked-down database. Members' on-time payments build a trust score they can download as a credit passport. Automatic M-Pesa payouts and SmartGrow aren't open yet.
 </details>
 
 </td>
@@ -230,25 +231,9 @@ Camping gear, Kenyan campsites and guided trips, with an inquiry basket sent ove
 
 <sub>Work in progress. Most of these repositories are private, so they don't show on my profile; <a href="mailto:lennykidavik@gmail.com?subject=Walkthrough%20request">ask me for a walkthrough</a>.</sub>
 
+**Saka for Android** — a 1–2 MB app that opens Saka full-screen and shares the website's database, for phones with little storage.
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Saka for Android
-<sub>Own product · In build</sub>
-
-A 1–2 MB Android app (Trusted Web Activity) that opens Saka full-screen and shares the website's database, so it fits on phones with little storage.
-
-</td>
-<td width="50%" valign="top">
-
-### Akibora
-<sub>Own product · Redesign in progress</sub>
-
-SmartChama, renamed and redesigned from scratch for web and mobile, keeping the green brand and moving both apps onto one shared database.
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
