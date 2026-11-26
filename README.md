@@ -5,7 +5,7 @@
 
 I'm Lenny, a Computer Science student at the Catholic University of Eastern Africa and a freelance full-stack developer in Nairobi. I design and build web products end to end, from the Figma file to the deployed app, and I'm working toward machine learning engineering.
 
-**[Portfolio](https://lennydev.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/lenny-kidavi-4693ba355) · [Email](mailto:lennykidavik@gmail.com) · [Fiverr](https://www.fiverr.com/lennynavwani) · [X](https://x.com/Lenny_kidavi) · [CV](https://lennydev.vercel.app/cv)
+**[Portfolio](https://kidavi.me)** · [LinkedIn](https://www.linkedin.com/in/lenny-kidavi-4693ba355) · [Email](mailto:lennykidavik@gmail.com) · [Fiverr](https://www.fiverr.com/lennynavwani) · [X](https://x.com/Lenny_kidavi) · [CV](https://kidavi.me/cv)
 
 <sub>Jump to: [Now](#now) · [Selected work](#selected-work) · [Being built](#being-built) · [Recognition](#recognition) · [Toolkit](#toolkit) · [Across the sand](#across-the-sand)</sub>
 
@@ -225,7 +225,7 @@ Camping gear, Kenyan campsites and guided trips, with an inquiry basket sent ove
 </tr>
 </table>
 
-<sub>And **[this portfolio](https://lennydev.vercel.app)** ([code](https://github.com/chillyreward/DunePortfolio)): my site, built on an original design system inspired by Frank Herbert's *Dune*, sand by day and Giedi Prime by night.</sub>
+<sub>And **[this portfolio](https://kidavi.me)** ([code](https://github.com/chillyreward/DunePortfolio)): my site, built on an original design system inspired by Frank Herbert's *Dune*, sand by day and Giedi Prime by night.</sub>
 
 ## Being built
 
