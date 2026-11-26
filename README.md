@@ -319,9 +319,9 @@ Second place, again with **SmartChama**.
   Do not edit between the two markers; the workflow overwrites it.
 -->
 <!--START_SECTION:activity-->
+- [DunePortfolio](https://github.com/chillyreward/DunePortfolio) <sub>· updated 26 Nov 2026</sub>
 - [SmartChama](https://github.com/chillyreward/SmartChama) — SmartChama: A PWA digital ledger for Kenyan Chamas built with Next.js and Firebase. <sub>· updated 24 Nov 2026</sub>
 - [SmartChama-Mobile](https://github.com/chillyreward/SmartChama-Mobile) <sub>· updated 24 Nov 2026</sub>
-- [DunePortfolio](https://github.com/chillyreward/DunePortfolio) <sub>· updated 4 Oct 2026</sub>
 - [New-translator](https://github.com/chillyreward/New-translator) <sub>· updated 29 Jun 2026</sub>
 - [gikuyu-translate](https://github.com/chillyreward/gikuyu-translate) <sub>· updated 18 May 2026</sub>
 <!--END_SECTION:activity-->
